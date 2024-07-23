@@ -15,7 +15,7 @@ This is a simple implementation of the classic Pong game using Python. The game 
 3. Run the following command to start the game:
 
     ```bash
-    python pong.py
+    python main.py
     ```
 
 4. Set the maximum score and click the "Start" button to begin the game.
